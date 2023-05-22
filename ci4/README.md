@@ -10,6 +10,6 @@ Nim: 312110052
 
 Output pada Praktikum 7 - Codeigniter seperti berikut ini:
 
-![codeigniter](rika.png)
+![codeigniter](images/rika.png)
 
 Selesai(●'◡'●)
